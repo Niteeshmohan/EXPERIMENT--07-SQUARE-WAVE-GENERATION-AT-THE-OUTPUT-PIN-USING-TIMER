@@ -170,17 +170,17 @@ static void MX_TIM2_Init(void)
 
 ## Output screen shots of proteus  :
 ### FOR PULSE AT 50% :
-![PMC EXP 6 50%](https://github.com/JananiSoundararajan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119477549/68edfb4c-e9b4-4b1a-9e75-952824f1f065)
+![PMC EXP 6 50%](out.png)
 
 ### FOR PULSE AT 75%:
-![75%](https://github.com/JananiSoundararajan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119477549/8cb8e573-b533-443e-9ec3-8c8ad35c5e38)
+![75%](out1.png)
 
 ### FOR PULSE AT 25%:
-![25%](https://github.com/JananiSoundararajan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119477549/0d1652c3-65fa-4355-9f2d-d32d50b962bb)
+![25%](out2.png)
 
 
 ## CIRCUIT DIAGRAM: 
-![PMC EXP6 CD](https://github.com/JananiSoundararajan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119477549/2a827535-b667-41db-b410-20322d031c95)
+![PMC EXP6 CD](out3.png)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION:
 ### FOR PULSE AT 2500 (50%)
